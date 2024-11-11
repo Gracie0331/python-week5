@@ -1,0 +1,6 @@
+Hello, World!
+This is line 2 with a number: 123
+Line 3 with a float: 45.67
+Appended line 4
+Appended line 5 with a number: 890
+Appended line 6 with a float: 12.34
